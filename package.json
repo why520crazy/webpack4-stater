@@ -22,7 +22,7 @@
     "webpack-cli": "^2.1.2"
   },
   "dependencies": {
-    "@angular/core": "^6.0.0",
+    "@angular/core": "^11.0.5",
     "jquery": "^3.3.1"
   }
 }
